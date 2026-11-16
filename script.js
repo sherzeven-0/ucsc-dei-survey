@@ -7,8 +7,8 @@
  * Never place private form edit URLs or API credentials here: this code is public.
  */
 const SURVEY_CONFIG = {
-  status: "draft",
-  formUrl: ""
+  status: "open",
+  formUrl: "https://forms.gle/RbeiBbyLz9HJZ1Tx8"
 };
 
 (function initializeSurvey() {
